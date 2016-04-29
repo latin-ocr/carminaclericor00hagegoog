@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminaclericor00hagegoog_0038.png"; bbox 0 0 2160 3134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 420 375 591 428">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 420 375 591 428">
+     <span class='ocr_line' id='line_1_1' title="bbox 420 375 591 428; baseline -0.012 -28"><span class='ocrx_word' id='word_1_1' title='bbox 420 375 591 428; x_wconf 68' lang='lat'>,25.-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 484 674 804">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 484 641 633">
+     <span class='ocr_line' id='line_1_2' title="bbox 333 484 631 534; baseline -0.007 0"><span class='ocrx_word' id='word_1_2' title='bbox 333 486 430 534; x_wconf 88' lang='lat' dir='ltr'>Omnes</span> <span class='ocrx_word' id='word_1_3' title='bbox 446 484 492 533; x_wconf 84' lang='lat' dir='ltr'>tibi</span> <span class='ocrx_word' id='word_1_4' title='bbox 516 484 631 532; x_wconf 87' lang='lat' dir='ltr'>canimus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 369 568 641 633; baseline -0.007 -16"><span class='ocrx_word' id='word_1_5' title='bbox 369 569 480 617; x_wconf 85' lang='lat' dir='ltr'>Maxima</span> <span class='ocrx_word' id='word_1_6' title='bbox 499 568 641 633; x_wconf 87' lang='lat' dir='ltr'>praeconia,</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 334 653 674 804">
+     <span class='ocr_line' id='line_1_4' title="bbox 334 653 631 704; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 334 656 371 703; x_wconf 89' lang='lat' dir='ltr'>Te</span> <span class='ocrx_word' id='word_1_8' title='bbox 390 656 523 704; x_wconf 86' lang='lat' dir='ltr'>laudantes</span> <span class='ocrx_word' id='word_1_9' title='bbox 541 653 631 702; x_wconf 85' lang='lat' dir='ltr'>merito</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 369 740 674 804; baseline 0 -16"><span class='ocrx_word' id='word_1_10' title='bbox 369 742 498 804; x_wconf 88' lang='lat' dir='ltr'>Tempora</span> <span class='ocrx_word' id='word_1_11' title='bbox 516 757 561 804; x_wconf 86' lang='lat' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_12' title='bbox 581 740 674 788; x_wconf 85' lang='lat' dir='ltr'><strong>omnia.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 404 825 649 874">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 404 825 649 874">
+     <span class='ocr_line' id='line_1_6' title="bbox 404 825 649 874; baseline 0.004 -1"><span class='ocrx_word' id='word_1_13' title='bbox 404 825 477 874; x_wconf 88' lang='lat' dir='ltr'><strong>Istud</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 494 825 582 874; x_wconf 90' lang='lat' dir='ltr'>vinum</span> <span class='ocrx_word' id='word_1_15' title='bbox 601 833 649 874; x_wconf 89' lang='lat' dir='ltr'><strong>etc.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1084 3134">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1084 3134">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1084 3134; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1084 3134; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

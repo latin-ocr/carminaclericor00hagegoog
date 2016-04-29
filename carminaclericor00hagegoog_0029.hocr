@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminaclericor00hagegoog_0029.png"; bbox 0 0 2160 3134; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 525 363 696 410">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 525 363 696 410">
+     <span class='ocr_line' id='line_1_1' title="bbox 525 363 696 410; baseline -0.006 -11"><span class='ocrx_word' id='word_1_1' title='bbox 525 363 696 410; x_wconf 72' lang='lat'><strong>..16-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 415 482 810 802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 418 482 792 545">
+     <span class='ocr_line' id='line_1_2' title="bbox 418 482 792 545; baseline 0.005 -15"><span class='ocrx_word' id='word_1_2' title='bbox 418 482 486 545; x_wconf 86' lang='lat' dir='ltr'>Ergo</span> <span class='ocrx_word' id='word_1_3' title='bbox 504 483 600 531; x_wconf 67' lang='lat' dir='ltr'>vinum⁴</span> <span class='ocrx_word' id='word_1_4' title='bbox 609 483 792 542; x_wconf 83' lang='lat' dir='ltr'>collaudemus,</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 415 567 702 618">
+     <span class='ocr_line' id='line_1_3' title="bbox 415 567 702 618; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 415 567 545 618; x_wconf 86' lang='lat' dir='ltr'>Potatores</span> <span class='ocrx_word' id='word_1_6' title='bbox 562 568 702 616; x_wconf 81' lang='lat' dir='ltr'><strong>exaltemus</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 415 651 810 802">
+     <span class='ocr_line' id='line_1_4' title="bbox 415 651 810 717; baseline 0.008 -17"><span class='ocrx_word' id='word_1_7' title='bbox 415 651 603 717; x_wconf 86' lang='lat' dir='ltr'><strong>Non-potentes</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 624 654 810 703; x_wconf 82' lang='lat' dir='ltr'>confundemus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 449 737 722 802; baseline 0.011 -17"><span class='ocrx_word' id='word_1_9' title='bbox 449 738 491 785; x_wconf 87' lang='lat' dir='ltr'>Ad</span> <span class='ocrx_word' id='word_1_10' title='bbox 509 737 600 786; x_wconf 89' lang='lat' dir='ltr'>inferni</span> <span class='ocrx_word' id='word_1_11' title='bbox 620 738 722 802; x_wconf 86' lang='lat' dir='ltr'>palatia.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1084 3134">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1084 3134">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1084 3134; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1084 3134; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
